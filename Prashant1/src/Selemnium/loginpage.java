@@ -8,6 +8,7 @@ public class loginpage {
 		System.out.println("new comment  page ");
 		System.out.println("new comment  2page ");
 		System.out.println("new comment  2page ");
+		System.out.println("new comment  2page ");
 
 
 	}
