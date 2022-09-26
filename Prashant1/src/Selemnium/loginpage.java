@@ -6,6 +6,8 @@ public class loginpage {
 		// TODO Auto-generated method stub
 		System.out.println("login page ");
 		System.out.println("new comment  page ");
+		System.out.println("new comment  2page ");
+		System.out.println("new comment  2page ");
 
 
 	}
